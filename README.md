@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">I working with</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
