@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is Yaroslav Kryvoruchko and I'm a Junior Front-End Engineer</h2>
+<h2 align="left">My name is Yaroslav Kryvoruchko and I'm a Front-End Engineer</h2>
 
 ###
 
