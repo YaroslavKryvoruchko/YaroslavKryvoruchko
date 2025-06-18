@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">About me<br><br>Aspiring Junior Front-End Developer with a strong foundation in HTML, CSS, and JavaScript. Passionate about building responsive and user-friendly interfaces. Skilled in React.js, version control (Git), and modern web development tools. Eager to contribute to a dynamic team and continuously learn new technologies.</h4>
+<h4 align="left">About me<br><br>Aspiring Front-End Engineer with a strong foundation in HTML, CSS, and JavaScript. Passionate about building responsive and user-friendly interfaces. Skilled in React.js, version control (Git), and modern web development tools. Eager to contribute to a dynamic team and continuously learn new technologies.</h4>
 
 ###
 
